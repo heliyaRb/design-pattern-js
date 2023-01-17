@@ -4,13 +4,20 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgb(242, 197, 197);
+  background: #e7dcd7;
+  color: black;
+
+
+  label{
+    color: bisque;
+  }
 }
 
 
 .sidenav {
-  width: 200px;
-  background: purple
+  width: 250px;
+  background: #795548;
+  padding-left: 6px ;
 }
 
 
